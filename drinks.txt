@@ -1,0 +1,9 @@
+water
+coffee
+tea
+pepsi
+mountain dew
+red bull
+monster
+tequilla
+coke
